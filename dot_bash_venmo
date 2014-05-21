@@ -1,5 +1,5 @@
 # Source this before sourcing the dot_bash_profile script
-export VGIT_USERNAME=delano
+export VGIT_USERNAME=jtglaze
 
 if [ -d /home/vagrant ]; then
    # vagrant related stuff

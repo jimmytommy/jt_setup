@@ -2,8 +2,8 @@
 	ui = auto
 	interactive = auto
 [user]
-	name = ledona
-	email = delano@ledona.net
+	name = JT Glaze
+	email = jt.glaze@venmo.com
 [core]
 	excludesfile = ~/.gitignore
 [rerere]

@@ -1,6 +1,6 @@
 # This is a Mercurial configuration file.
 [ui]
-username = Delano J. McFarlane <delano@ledona.net>
+username = JT Glaze <jtglaze@venmo.com>
 
 [extensions]
 hgext.convert=

@@ -5,7 +5,7 @@ recipes:
 - workstation::emacs
 env_variable_switches:
   USER:
-    delano:
+    jtglaze:
 env_variable_switches:
   USER:
     vagrant:
